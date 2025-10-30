@@ -8,7 +8,7 @@ public class MyApp4 {
   }
 
   public static void main(String[] args) {
-    System.out.println(sum(3, 7)* 4);
+    System.out.println(sum(3, 7));
     showSum(3, 7);
   }
 }
